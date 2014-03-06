@@ -1,0 +1,11 @@
+gcc -Wall -W -Werror main.c -o HelloWorldC
+
+g++ -Wall -W -Werror main.cpp -o HelloWorldCPP
+
+chmod +x HelloWorldC
+
+chmod +x HelloWorldCPP
+
+./HelloWorldC
+
+./HelloWorldCPP
